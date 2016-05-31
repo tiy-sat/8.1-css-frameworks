@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6",
+    "jquery": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass --watch sass/main.sass:styles/main.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
